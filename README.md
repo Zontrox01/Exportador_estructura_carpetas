@@ -1,7 +1,7 @@
-# Exportador_estructura_carpetas
+# Exportador de estructura de a archivos carpetas
 Exporta estructura de archivos y carpetas a distintos formatos (txt, csv, html, docx, md)
 
-📁 Exportador_estructura_carpetas
+📁 Lista y exporta la estructura de archivos y carpetas
 Un potente listador de estructuras de carpetas con interfaz gráfica, filtros avanzados y múltiples formatos de exportación.
 
 ✨ Características
