@@ -1,4 +1,4 @@
-# Exportador de estructura de a archivos carpetas
+# Exportador de estructura de archivos carpetas
 Exporta estructura de archivos y carpetas a distintos formatos (txt, csv, html, docx, md)
 
 📁 Lista y exporta la estructura de archivos y carpetas
