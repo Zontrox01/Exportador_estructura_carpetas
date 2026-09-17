@@ -55,6 +55,7 @@ Clonar el repositorio
 bash
 git clone https://github.com/tu-usuario/folder-structure-lister.git
 cd folder-structure-lister
+
 ## 💻 Uso
 Ejecutar la aplicación
 bash
@@ -103,6 +104,7 @@ FolderStructureLister/
 ├── README.md                       # Este archivo
 ├── LICENSE                         # Licencia MIT
 └── requirements.txt               # Dependencias
+
 Clases principales
 Clase	Descripción
 MainWindow	Interfaz principal y lógica de control
