@@ -95,6 +95,7 @@ HTML	.html	Página web con estilos integrados
 DOCX	.docx	Documento Word (requiere python-docx)
 ## 🛠️ Estructura del código
 text
+
 FolderStructureLister/
 ├── crear_estructura_archivos.py   # Aplicación principal
 ├── README.md                       # Este archivo
