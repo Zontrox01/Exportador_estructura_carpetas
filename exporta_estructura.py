@@ -162,9 +162,18 @@ class WorkerThread(QThread):
                 self.progress.emit(min(progress_value, 100))
         
         # Procesar carpetas
-        if self.incluir_subcarpetas:
-            for nombre in carpetas:
-                lineas.append(f"{prefijo}[CARPETA] {nombre}")
+        for nombre in carpetas:
+            # Mostrar siempre el nombre de la carpeta, independientemente
+            # de si se va a listar su contenido o no
+            lineas.append(f"{prefijo}[CARPETA] {nombre}")
+            items_procesados += 1
+            if total_items > 0:
+                progress_value = int((items_procesados / total_items) * 100)
+                self.progress.emit(min(progress_value, 100))
+
+            # Solo entrar a listar el contenido de la carpeta si
+            # "Incluir subcarpetas" está activado
+            if self.incluir_subcarpetas:
                 items_procesados = self._listar(
                     os.path.join(ruta, nombre), 
                     prefijo + "    ", 
