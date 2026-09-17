@@ -111,7 +111,7 @@ ExportDialog	Diálogo de opciones de exportación
 Extensiones predeterminadas
 La aplicación incluye extensiones comunes preconfiguradas. Puedes detectar automáticamente las extensiones de tu carpeta haciendo clic en "Detectar extensiones".
 
-## Exclusiones
+## 🚫 Exclusiones
 Carpetas: Ejemplo cache, temporal, __pycache__
 Archivos: Ejemplo temp.log, imagen.png, datos.csv
 
