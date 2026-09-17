@@ -8,10 +8,10 @@ Exporta estructura de archivos y carpetas a distintos formatos (txt, csv, html, 
 
 ---
 
-📁 Lista y exporta la estructura de archivos y carpetas
+## 📁 Lista y exporta la estructura de archivos y carpetas
 Un potente listador de estructuras de carpetas con interfaz gráfica, filtros avanzados y múltiples formatos de exportación.
 
-✨ Características
+## ✨ Características
 🖥️ Interfaz gráfica intuitiva con PySide6
 
 📂 Selección de carpeta con exploración visual
@@ -42,7 +42,7 @@ DOCX (documento Word)
 
 🌍 Soporte para Unicode (UTF-8)
 
-🚀 Instalación
+## 🚀 Instalación
 Requisitos previos
 bash
 Python 3.7 o superior
@@ -55,11 +55,11 @@ Clonar el repositorio
 bash
 git clone https://github.com/tu-usuario/folder-structure-lister.git
 cd folder-structure-lister
-💻 Uso
+## 💻 Uso
 Ejecutar la aplicación
 bash
 python crear_estructura_archivos.py
-Pasos para usar
+### Pasos para usar
 Seleccionar carpeta - Haz clic en "Examinar..." o escribe la ruta
 
 Configurar opciones:
@@ -96,7 +96,7 @@ CSV	.csv	Dos variantes: separado por coma o punto y coma
 Markdown	.md	Formato ligero para documentación
 HTML	.html	Página web con estilos integrados
 DOCX	.docx	Documento Word (requiere python-docx)
-🛠️ Estructura del código
+## 🛠️ Estructura del código
 text
 FolderStructureLister/
 ├── crear_estructura_archivos.py   # Aplicación principal
@@ -108,16 +108,15 @@ Clase	Descripción
 MainWindow	Interfaz principal y lógica de control
 WorkerThread	Hilo para procesamiento en segundo plano
 ExportDialog	Diálogo de opciones de exportación
-🔧 Configuración avanzada
+## 🔧 Configuración avanzada
 Extensiones predeterminadas
 La aplicación incluye extensiones comunes preconfiguradas. Puedes detectar automáticamente las extensiones de tu carpeta haciendo clic en "Detectar extensiones".
 
-Exclusiones
+## Exclusiones
 Carpetas: Ejemplo cache, temporal, __pycache__
-
 Archivos: Ejemplo temp.log, imagen.png, datos.csv
 
-📝 Ejemplo de salida
+## 📝 Ejemplo de salida
 text
 Estructura de: /proyecto
 ======================================================================
@@ -145,17 +144,17 @@ Push a la rama (git push origin feature/AmazingFeature)
 
 Abre un Pull Request
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
-📞 Contacto
+## 📞 Contacto
 Autor: Luis Miguel Ramos 
 
 GitHub: Zontrox01
 
 Email: zontrox@gmail.com
 
-🙏 Agradecimientos
+## 🙏 Agradecimientos
 PySide6 - Framework de interfaz gráfica
 
 python-docx - Para exportación DOCX
