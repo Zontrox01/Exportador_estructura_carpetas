@@ -26,11 +26,11 @@ Un potente listador de estructuras de carpetas con interfaz gráfica, filtros av
 
 💾 Exportación a múltiples formatos:
 
-### TXT (texto plano)
-### CSV (con delimitador configurable)
-### Markdown (.md)
-### HTML (página web)
-### DOCX (documento Word)
+    TXT (texto plano)
+    CSV (con delimitador configurable)
+    Markdown (.md)
+    HTML (página web)
+    DOCX (documento Word)
 
 📋 Menú contextual para excluir elementos rápidamente
 
