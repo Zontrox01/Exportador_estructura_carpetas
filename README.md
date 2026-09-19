@@ -115,7 +115,7 @@ Carpetas: Ejemplo cache, temporal, __pycache__
 Archivos: Ejemplo temp.log, imagen.png, datos.csv
 
 ## 📝 Ejemplo de salida
-text
+```text
 Estructura de: /proyecto
 ======================================================================
 Fecha: 2026-09-06 15:30:25
@@ -129,6 +129,8 @@ Fecha: 2026-09-06 15:30:25
 [CARPETA] tests
     - test_main.py
     - test_utils.py
+```
+
 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor:
 
