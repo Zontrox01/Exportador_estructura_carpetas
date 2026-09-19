@@ -96,10 +96,10 @@ DOCX	.docx	Documento Word (requiere python-docx)
 ## 🛠️ Estructura del código
 ```text
 Estructura de archivos/
-├── crear_estructura_archivos.py              # Aplicación principal
+├── crear_estructura_archivos.py    # Aplicación principal
 ├── README.md                       # Este archivo
 ├── LICENSE                         # Licencia MIT
-└── requirements.txt               # Dependencias
+└── requirements.txt                # Dependencias
 ```
 Clases principales
 Clase	Descripción
