@@ -49,7 +49,7 @@ Nota: python-docx es opcional, solo necesario para exportar a DOCX. Si no está 
 
 Clonar el repositorio
 bash
-git clone https://github.com/tu-usuario/folder-structure-lister.git
+git clone https://github.com/Zontrox01/Exportador_estructura_carpetas.git
 cd folder-structure-lister
 
 ## 💻 Uso
