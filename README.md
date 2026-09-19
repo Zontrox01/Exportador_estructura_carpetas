@@ -94,9 +94,8 @@ Markdown	.md	Formato ligero para documentación
 HTML	.html	Página web con estilos integrados
 DOCX	.docx	Documento Word (requiere python-docx)
 ## 🛠️ Estructura del código
-text
 
-FolderStructureLister/
+Estructura de archivos/
 ├── crear_estructura_archivos.py              # Aplicación principal
 ├── README.md                       # Este archivo
 ├── LICENSE                         # Licencia MIT
