@@ -52,7 +52,7 @@ bash
 
 git clone https://github.com/Zontrox01/Exportador_estructura_carpetas.git
 
-cd folder-structure-lister
+cd Exportador_estructura_carpetas
 
 ## 💻 Uso
 Ejecutar la aplicación
