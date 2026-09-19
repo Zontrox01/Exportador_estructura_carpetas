@@ -118,7 +118,7 @@ Archivos: Ejemplo temp.log, imagen.png, datos.csv
 ```text
 Estructura de: /proyecto
 ======================================================================
-Fecha: 2026-09-06 15:30:25
+Fecha: aaaa-mm-dd hh:mm:ss
 
 [CARPETA] src
     - main.py
