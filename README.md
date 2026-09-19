@@ -97,7 +97,7 @@ DOCX	.docx	Documento Word (requiere python-docx)
 text
 
 FolderStructureLister/
-├── crear_estructura_archivos.py   # Aplicación principal
+├── crear_estructura_archivos.py              # Aplicación principal
 ├── README.md                       # Este archivo
 ├── LICENSE                         # Licencia MIT
 └── requirements.txt               # Dependencias
